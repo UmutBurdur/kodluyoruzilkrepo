@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Java Patikası'nda oluşturduğ
 ![Ornek Resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
 
 ## Installation
----
+
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```
@@ -12,7 +12,7 @@ git clone https://github.com/UmutBurdur/kodluyoruzilkrepo.git
 ```
 
 ## Usage
----
+
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
@@ -23,9 +23,9 @@ code.
 ```
 
 ## Contributing
----
+
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için konu açınız.
 
 ## Licence
----
+
 [MIT](https://choosealicense.com/licenses/mit/)
